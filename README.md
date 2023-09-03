@@ -1,3 +1,5 @@
 # praneet-demo
 This is my first repository. <br>
-Author - Praneet
+Author - Praneet Kalyanshetti
+
+Pleased to meet you! 
